@@ -82,7 +82,6 @@ the star brings external waters (repos) into internal pools
 ## dependencies
 
 - teamtreasure02/grain-foundations (graindevname, grainspace)
-- teamcarry11/grainorder (permutation-based chronological file naming)
 - teamcarry11/grainstore-manifest (manifest specification)
 
 ## license
