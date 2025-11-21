@@ -85,7 +85,7 @@ none (grainmirror is a standalone tool)
 
 ## license
 
-triple licensed: MIT / Apache 2.0 / CC BY 4.0
+Multi-licensed: MIT / Apache 2.0 / CC BY 4.0
 
 choose whichever license suits your needs.
 
